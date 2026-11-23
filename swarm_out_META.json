@@ -1,0 +1,205 @@
+{
+  "tag": "META",
+  "studies": [
+    {
+      "pmid": "40491104",
+      "eligible": true,
+      "design": "pairwise-单中心开放标签随机对照试验（RCT）；符合PICOS（URPL人群、LMWH vs 多种维生素安慰剂、活产结局）",
+      "outcomes": [
+        {
+          "name": "活产率（达24周后活产，主要结局）",
+          "effect_type": "OR",
+          "events_t": null,
+          "n_t": 85,
+          "events_c": null,
+          "n_c": 85,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        }
+      ]
+    },
+    {
+      "pmid": "40497447",
+      "eligible": true,
+      "design": "umbrella-Cochrane系统评价（2023更新版，含可信度筛查）；符合PICOS（不明原因复发性流产、孕激素 vs 安慰剂/无治疗）",
+      "outcomes": [
+        {
+          "name": "活产率",
+          "effect_type": "OR",
+          "events_t": null,
+          "n_t": null,
+          "events_c": null,
+          "n_c": null,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        },
+        {
+          "name": "流产率",
+          "effect_type": "OR",
+          "events_t": null,
+          "n_t": null,
+          "events_c": null,
+          "n_c": null,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        }
+      ]
+    },
+    {
+      "pmid": "39698935",
+      "eligible": true,
+      "design": "umbrella-贝叶斯网络Meta分析；符合PICOS（首次先兆流产、不同孕激素 vs 安慰剂）",
+      "outcomes": [
+        {
+          "name": "活产率",
+          "effect_type": "OR",
+          "events_t": null,
+          "n_t": null,
+          "events_c": null,
+          "n_c": null,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        },
+        {
+          "name": "流产率",
+          "effect_type": "OR",
+          "events_t": null,
+          "n_t": null,
+          "events_c": null,
+          "n_c": null,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        }
+      ]
+    },
+    {
+      "pmid": "38481031",
+      "eligible": true,
+      "design": "umbrella-系统评价与Meta分析（含Cochrane RoB与GRADE）；符合PICOS（先兆流产/复发性流产、孕激素 vs 安慰剂或无治疗）",
+      "outcomes": [
+        {
+          "name": "活产率",
+          "effect_type": "OR",
+          "events_t": null,
+          "n_t": null,
+          "events_c": null,
+          "n_c": null,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        },
+        {
+          "name": "流产率",
+          "effect_type": "OR",
+          "events_t": null,
+          "n_t": null,
+          "events_c": null,
+          "n_c": null,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        }
+      ]
+    },
+    {
+      "pmid": "38898143",
+      "eligible": true,
+      "design": "umbrella-系统评价与Meta分析（仅纳入RCT）；符合PICOS（不明原因复发性流产、LMWH单用或联合LDA、活产率）",
+      "outcomes": [
+        {
+          "name": "活产率（LBR，主要结局）",
+          "effect_type": "OR",
+          "events_t": null,
+          "n_t": null,
+          "events_c": null,
+          "n_c": null,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        }
+      ]
+    },
+    {
+      "pmid": "37475190",
+      "eligible": false,
+      "design": "umbrella-Meta分析（RCT）；设计类型符合，但人群为血栓倾向IVF/ICSI助孕女性，非先兆流产或复发性流产风险孕妇，超出PICOS人群范围",
+      "outcomes": [
+        {
+          "name": "活产率",
+          "effect_type": "OR",
+          "events_t": null,
+          "n_t": null,
+          "events_c": null,
+          "n_c": null,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        },
+        {
+          "name": "流产率",
+          "effect_type": "OR",
+          "events_t": null,
+          "n_t": null,
+          "events_c": null,
+          "n_c": null,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        }
+      ]
+    },
+    {
+      "pmid": "36806843",
+      "eligible": true,
+      "design": "pairwise-随机双盲安慰剂对照试验（STOP trial）；符合PICOS（先兆流产、阴道微粒化黄体酮400mg vs 安慰剂、活产率）",
+      "outcomes": [
+        {
+          "name": "活产率（主要结局）",
+          "effect_type": "OR",
+          "events_t": null,
+          "n_t": null,
+          "events_c": null,
+          "n_c": null,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        }
+      ]
+    },
+    {
+      "pmid": "37271152",
+      "eligible": true,
+      "design": "pairwise-国际多中心开放标签随机对照试验（ALIFE2）；符合PICOS（复发性流产+遗传性血栓倾向、LMWH vs 标准照护）",
+      "outcomes": [
+        {
+          "name": "活产率",
+          "effect_type": "OR",
+          "events_t": null,
+          "n_t": null,
+          "events_c": null,
+          "n_c": null,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        },
+        {
+          "name": "流产率",
+          "effect_type": "OR",
+          "events_t": null,
+          "n_t": null,
+          "events_c": null,
+          "n_c": null,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        }
+      ]
+    }
+  ],
+  "summary": "8篇文献中7篇符合PICOS纳入标准（3篇原始RCT、4篇系统评价/Meta分析/网络Meta分析，覆盖孕激素与低分子肝素两大干预），仅PMID 37475190因人群为IVF/ICSI血栓倾向女性而不符合PICOS人群要求；摘要中仅PMID 40491104明确给出分组样本量（85/85），其余效应量与事件计数均未在摘要中报告，全部记为null，需获取全文后补充提取。"
+}
