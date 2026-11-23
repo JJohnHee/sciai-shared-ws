@@ -1,0 +1,1020 @@
+1. Pediatr Surg Int. 2024 Oct 29;40(1):281. doi: 10.1007/s00383-024-05863-1.
+
+Dipeptidyl peptidase IV inhibitors reduce hepatic fibrosis and lipid 
+accumulation in rat intestinal failure-associated liver disease models.
+
+Sueyoshi R(1), Ishii J(2), Yamada S(2), Kawakami M(3), Tanabe K(3), Segawa O(2).
+
+Author information:
+(1)Department of Pediatric Surgery, Tokyo Women's Medical University, 8‑1 
+Kawada‑Cho, Shinjuku‑Ku, Tokyo, 162‑8666, Japan. sueyoshi.ryo@twmu.ac.jp.
+(2)Department of Pediatric Surgery, Tokyo Women's Medical University, 8‑1 
+Kawada‑Cho, Shinjuku‑Ku, Tokyo, 162‑8666, Japan.
+(3)Tokyo Women's Medical University Institute for Comprehensive Medical 
+Sciences, 8‑1 Kawada‑Cho, Shinjuku‑Ku, Tokyo, 162‑8666, Japan.
+
+PURPOSE: This study aimed to investigate the effectiveness of dipeptidyl 
+peptidase IV inhibitors (DPP4-I) against liver damage, especially fibrosis and 
+lipid accumulation, in a rat intestinal failure-associated liver disease (IFALD) 
+model.
+METHODS: SD rats were divided into two groups: the Control (n = 7; normal 
+saline + IFALD model) and DPP4-I (n = 7; DPP4-I + IFALD model; short bowel 
+syndrome (SBS) + total parenteral nutrition) groups. All rats were euthanized 
+21 days postoperatively to obtain tissue samples. Liver fibrosis was evaluated 
+by Sirius Red and α-SMA staining. Liver damage was assessed using the steatosis, 
+activity, and fibrosis score. Inflammation cytokines were examined by ELISA.
+RESULTS: The survival rate was comparatively different, being 87.5% in the 
+DPP4-I group and 70.0% in the Control group. Two rats of the Control group 
+showed progressive liver fibrosis in the periportal area with fibrous streaks. 
+Further, the mean area percentage of α-SMA immune-positive cells was 
+significantly lower in the DPP4-I group than in the Control group. TGF-β levels 
+were significantly lower in the DPP4-I group than in the Control group.
+CONCLUSION: DPP4-I administration reduced liver fibrosis in IFALD, possibly by 
+inhibiting DPP4-I-induced adipogenesis and suppressing TGF-β. These results may 
+contribute to elucidating the mechanism of IFALD.
+
+© 2024. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00383-024-05863-1
+PMID: 39470835 [Indexed for MEDLINE]
+
+
+2. Calcif Tissue Int. 2019 Apr;104(4):437-448. doi: 10.1007/s00223-018-0507-0.
+Epub  2018 Dec 18.
+
+Sitagliptin Alters Bone Composition in High-Fat-Fed Mice.
+
+Mansur SA(1)(2), Mieczkowska A(3), Flatt PR(1), Chappard D(3)(4)(5), Irwin N(1), 
+Mabilleau G(6)(7)(8).
+
+Author information:
+(1)School of Biomedical Sciences, University of Ulster, Coleraine, Northern 
+Ireland, UK.
+(2)University Tun Hussein Onn Malaysia, Parit Raja, Johor, Malaysia.
+(3)GEROM, UPRES EA 4658, UNIV Angers, SFR ICAT, Institut de Biologie en Santé - 
+CHU, 4 rue Larrey, 49933, Angers, France.
+(4)SCIAM, UNIV Angers, SFR ICAT, Institut de Biologie en Santé - CHU, 4 rue 
+Larrey, 49933, Angers, France.
+(5)Bone Pathology Unit, Angers University Hospital, 49933, Angers Cedex, France.
+(6)GEROM, UPRES EA 4658, UNIV Angers, SFR ICAT, Institut de Biologie en Santé - 
+CHU, 4 rue Larrey, 49933, Angers, France. guillaume.mabilleau@univ-angers.fr.
+(7)SCIAM, UNIV Angers, SFR ICAT, Institut de Biologie en Santé - CHU, 4 rue 
+Larrey, 49933, Angers, France. guillaume.mabilleau@univ-angers.fr.
+(8)Bone Pathology Unit, Angers University Hospital, 49933, Angers Cedex, France. 
+guillaume.mabilleau@univ-angers.fr.
+
+Type 2 diabetes mellitus is recognized as a significant risk factor for 
+fragility of bone. Among the newer anti-diabetic agents, dipeptidyl peptidase-4 
+inhibitors (DPP4i) have been reported to decrease the occurrence of bone 
+fractures although the reason is unclear. The main aim of this study was to 
+evaluate the impact of sitagliptin treatment on tissue bone strength and 
+compositional parameters in the high-fat-fed mouse model. Male NIH swiss mice 
+were allowed free access to high-fat diet for 150 days to induce chronic 
+hyperglycemia and insulin resistance. Sitagliptin was administered once daily 
+for 3 weeks. High-fat-fed mice administered with saline were used as controls. 
+Bone strength was assessed at the organ and tissue level by three-point bending 
+and nanoindentation, respectively. Bone microarchitecture was investigated by 
+microcomputed tomography and bone composition was evaluated by Fourier transform 
+infrared imaging and quantitative backscattered electron imaging. Administration 
+of sitagliptin increased non-fasting insulin, improved glucose tolerance and 
+increased insulin sensitivity. This was associated with clear ameliorations in 
+bone strength at the organ and tissue level. No changes in trabecular or 
+cortical microarchitectures were observed. On the other hand, higher values of 
+Camean, Caturn, collagen maturity, mineral/matrix ratio, mineral maturity and 
+crystal size index were evidenced after sitagliptin treatment. Correlation 
+analysis significantly linked the modifications of bone strength to changes in 
+bone compositional parameters. These results bring new light on the mode of 
+action of sitagliptin on bone physiology and demonstrate a benefit of DPP4i.
+
+DOI: 10.1007/s00223-018-0507-0
+PMID: 30564859 [Indexed for MEDLINE]
+
+
+3. Bioengineered. 2022 Apr;13(4):9387-9396. doi: 10.1080/21655979.2022.2055699.
+
+Omarigliptin alleviates cognitive dysfunction in Streptozotocin-induced diabetic 
+mouse.
+
+Li X(1), Yin Y(1), Li W(1), Li S(1), Zhang D(1), Liu Z(1).
+
+Author information:
+(1)Department of Endocrinology, Ganzhou People's Hospital, Ganzhou, Jiangxi, 
+China.
+
+Increasing epidemiological evidence supports the strong association between 
+diabetes mellitus (DM) and cognitive dysfunction. Omarigliptin is a long-acting 
+dipeptidyl peptidase 4 (DPP-4) inhibitor for the treatment of diabetes. However, 
+the effect of Omarigliptin in diabetes-associated cognitive dysfunction has not 
+been reported. In this study, we established an in vivo diabetic mice model 
+through streptozotocin (STZ) treatment and investigated the therapeutic effect 
+of Omarigliptin in diabetic mice. The results show that administration with 
+Omarigliptin reduced the food and water intake of STZ-induced diabetic mice, 
+accompanied by decreased blood glucose levels and increased serum insulin 
+levels. The Y-Maze test demonstrated that Omarigliptin ameliorated cognitive 
+dysfunction in STZ-induced diabetic mice. Omarigliptin presented a protective 
+role in the brain, as shown by the decreased reactive oxygen species (ROS) 
+level, increased NAD+/NADH ratio, adenosine triphosphate (ATP) level, and ATP 
+synthase activity in the hippocampus. Omarigliptin induced the increased 
+expression level of mitochondrial inner membrane protein sirtuin 3 (SIRT3) and 
+regulated its substrates, including forkhead box O3a (FOXO3a) and superoxide 
+dismutase 2 (SOD2). Furthermore, knockdown of SIRT3 abolished the protective 
+effects of Omarigliptin on mitochondrial dysfunction and cognitive dysfunction 
+in STZ-induced diabetic mice. Taken together, these findings suggest that 
+Omarigliptin improved insulin sensitivity and cognitive function in STZ-induced 
+diabetic mice. Mechanistically, SIRT3 expression is required for the effect of 
+Omarigliptin. This study provided preclinical evidence that Omarigliptin has the 
+neuroprotective effect to improve diabetes-associated cognitive dysfunction.
+
+DOI: 10.1080/21655979.2022.2055699
+PMCID: PMC9161942
+PMID: 35389830 [Indexed for MEDLINE]
+
+Conflict of interest statement: No potential conflict of interest was reported 
+by the author(s).
+
+
+4. Pharmacol Rep. 2019 Dec;71(6):1133-1139. doi: 10.1016/j.pharep.2019.06.017.
+Epub  2019 Jul 2.
+
+Reno-protective effect of linagliptin against gentamycin nephrotoxicity in rats.
+
+Helmy MM(1), Mouneir SM(2).
+
+Author information:
+(1)Pharmacology and Toxicology Department, Faculty of Pharmacy, Alexandria 
+University, Egypt. Electronic address: meeshoo7@hotmail.com.
+(2)Pharmacology Department, Faculty of Veterinary Medicine, Cairo University, 
+Egypt.
+
+BACKGROUND: Recent studies demonstrated the reno-protective effects of two 
+dipeptidyl peptidase-4 (DPP-4) inhibitors, saxagliptin and sitagliptin, against 
+gentamycin-induced renal injury. However, none of these studies investigated 
+whether renal DPP-4 contributes to the pathogenesis of this nephrotoxicity or 
+not. This prompted us to test this hypothesis and to assess, for the first time, 
+the potential reno-protective effect of linagliptin and whether this action is 
+related or not to DPP-4 inhibition. Lingliptin was chosen since it is mainly 
+excreted through a non-renal pathway and can therefore be used safely in 
+individuals with renal injury.
+METHODS: Male Sprague-Dawley rats were administered gentamycin (100 mg/kg/day, 
+ip for 10 days) alone or combined with linagliptin (3 mg/kg/day, orally for 14 
+days). Gentamycin was administered once daily during the last ten days of the 
+linagliptin treatment.
+RESULTS: Linagliptin administration ameliorated gentamycin-induced renal injury 
+and restored renal functional, oxidative, inflammatory, apoptotic and 
+histopathological changes. Furthermore, the current study highlighted the role 
+of increased plasma and renal DPP-4 in the pathogenesis of gentamycin renal 
+insults and showed that the potential reno-protective effect of linagliptin is 
+partly, mediated via inhibition of DPP-4, in addition to other antioxidant, 
+anti-inflammatory and anti-apoptotic actions.
+CONCLUSION: Linagliptin may serve as a beneficial adjutant to reduce 
+gentamycin-induced renal injury.
+
+Copyright © 2019 Institute of Pharmacology, Polish Academy of Sciences. 
+Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.pharep.2019.06.017
+PMID: 31675669 [Indexed for MEDLINE]
+
+
+5. Vascul Pharmacol. 2019 Apr;115:55-63. doi: 10.1016/j.vph.2018.11.003. Epub
+2018  Nov 14.
+
+Alogliptin improves endothelial function by promoting autophagy in perivascular 
+adipose tissue of obese mice through a GLP-1-dependent mechanism.
+
+Zhu B(1), Li Y(2), Mei W(3), He M(3), Ding Y(3), Meng B(3), Zhao H(3), Xiang 
+G(4).
+
+Author information:
+(1)Graduate School, Southern Medical University, Shatai Nan Road 1023, Guangzhou 
+510515, Guangdong Province, China; Department of Endocrinology, Wuhan General 
+Hospital of Chinese People's Liberation Army, Wuluo Road 627, Wuhan 430070, 
+Hubei Province, China.
+(2)Department of Hematology and Medical Oncology, School of Medicine, Emory 
+University, Atlanta, GA 30322, USA.
+(3)Department of Endocrinology, Wuhan General Hospital of Chinese People's 
+Liberation Army, Wuluo Road 627, Wuhan 430070, Hubei Province, China.
+(4)Graduate School, Southern Medical University, Shatai Nan Road 1023, Guangzhou 
+510515, Guangdong Province, China; Department of Endocrinology, Wuhan General 
+Hospital of Chinese People's Liberation Army, Wuluo Road 627, Wuhan 430070, 
+Hubei Province, China. Electronic address: guangda64@hotmail.com.
+
+OBJECTIVE: Perivascular adipose tissue (PVAT) regulates vascular function in a 
+paracrine manner and the vasodilatory effect of PVAT on vessels is completely 
+abolished in obesity. In addition, autophagy is required for maintaining 
+biological function of PVAT and has been shown to be inhibited in obesity. The 
+aim of this study was to explore whether alogliptin improves endothelial 
+function by promoting autophagy in PVAT in obese mice.
+METHODS: C57BL/6 mice were maintained on high fat diet with or without 
+alogliptin intervention for 3 months. Vasorelaxation function of thoracic aorta 
+with or without PVAT was determined. Autophagy related protein level of p62 and 
+LC3B, along with phosphorylated mTOR (p-mTOR) were evaluated. In addition, the 
+effects of alogliptin on autophagy were also investigated in cultured 
+adipocytes.
+RESULTS: The presence of PVAT significantly impaired endothelium-dependent 
+vasodilation in obese mice and alogliptin intervention corrected this defect. 
+Autophagy in PVAT was decreased in obese mice and alogliptin intervention 
+activated autophagy. Activating autophagy in PVAT improved endothelium-dependent 
+vasodilation while blocking it in PVAT impaired vasodilation function. Further, 
+addition of glucagon-like peptide-1 (GLP-1) but not alogliptin alone activated 
+autophagy. Moreover, GLP-1 and alogliptin co-treatment did not show additive 
+effect on activating autophagy.
+CONCLUSIONS: These results revealed that promoting autophagy in PVAT improved 
+endothelial function in response to alogliptin intervention. Additionally, the 
+beneficial effect of alogliptin intervention on PVAT was GLP-1 dependent.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.vph.2018.11.003
+PMID: 30447331 [Indexed for MEDLINE]
+
+
+6. Cardiovasc Drugs Ther. 2024 Aug;38(4):679-691. doi:
+10.1007/s10557-023-07436-1.  Epub 2023 Feb 4.
+
+Sitagliptin Ameliorates Creb5/lncRNA ENSMUST00000213271-Mediated Vascular 
+Endothelial Dysfunction in Obese Mice.
+
+Zong Y(#)(1), Wang X(#)(1), Zhang Y(1)(2), Tan N(1), Zhang Y(1)(3), Li L(1)(3), 
+Liu L(4)(5).
+
+Author information:
+(1)Department of Physiology and Pathophysiology, School of Basic Medical 
+Sciences, Peking University, Beijing, China.
+(2)Department of Integration of Chinese and Western Medicine, School of Basic 
+Medical Sciences, Peking University, Beijing, China.
+(3)Key Laboratory of Molecular Cardiovascular Science, Ministry of Education, 
+Beijing, China.
+(4)Department of Physiology and Pathophysiology, School of Basic Medical 
+Sciences, Peking University, Beijing, China. liulm@bjmu.edu.cn.
+(5)Key Laboratory of Molecular Cardiovascular Science, Ministry of Education, 
+Beijing, China. liulm@bjmu.edu.cn.
+(#)Contributed equally
+
+PURPOSE: Obesity is mediated by the changes in dyslipidemia, oxidative stress, 
+and inflammation, leading to vascular endothelial dysfunction. Glucagon-like 
+peptide-1 (GLP-1) analogues and dipeptidyl peptidase-4 inhibitors prevent the 
+development of endothelial dysfunction. However, the underlying mechanism still 
+remains largely unclear. Long non-coding RNAs (lncRNAs), one class of non-coding 
+small RNAs, have been shown to exert a regulatory impact on the endothelial 
+function in obesity. This study aimed to investigate whether the elevation of 
+GLP-1 by a DPP-4 inhibitor sitagliptin improved vascular endothelial function by 
+modulating lncRNAs in obese mice and to clarify the underlying molecular 
+mechanism.
+METHODS: Male C57BL/6J mice were fed a high-fat diet for 4 months to induce 
+obesity and some obese mice were treated with sitagliptin for the last 1 month. 
+Levels of total cholesterol (TC), high-density lipoprotein (HDL), low-density 
+lipoprotein (LDL), and glucagon-like peptide-1 (GLP-1) in plasma were detected 
+by ELISA. LncRNA expression profile was analyzed via microarray. Aortic 
+relaxations were examined by myograph. Protein expressions and phosphorylations 
+were determined using western blot. The differentially expressed lncRNAs were 
+validated using qRT-PCR.
+RESULTS: Obese mice exhibited increased levels of TC and LDL, decreased 
+concentrations of HDL and GLP-1 in plasma, and impaired aortic 
+endothelium-dependent relaxations; such effects could be reversed by 
+sitagliptin. Moreover, the altered expression profile of lncRNAs in the obese 
+mouse aortae could be modulated by sitagliptin. Consistent with microarray 
+analysis, qRT-PCR also revealed that lncRNA ENSMUST00000213271 was up-regulated 
+in obese mouse aortae and aortic endothelial cells (ECs), which could be 
+down-regulated by sitagliptin. Creb5 silencing reduced lncRNA ENSMUST00000213271 
+in obese mouse ECs. Knockdown of either Creb5 or lncRNA ENSMUST00000213271 
+restored the activation of AMPK/eNOS in obese mouse ECs. Furthermore, 
+sitagliptin also suppressed Creb5 and lncRNA ENSMUST00000213271 and increased 
+the phosphorylations of AMPK and eNOS in obese mice.
+CONCLUSION: Creb5/lncRNA ENSMUST00000213271 mediated vascular endothelial 
+dysfunction through inhibiting AMPK/eNOS cascade in obesity. Elevation of GLP-1 
+by sitagliptin possibly improved endothelial function by suppressing 
+Creb5/lncRNA ENSMUST00000213271 and subsequently restoring AMPK/eNOS activation 
+in obese mice. This study will provide new evidence for the benefits of GLP-1 
+against vasculopathy in obesity.
+
+© 2023. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s10557-023-07436-1
+PMID: 36738369 [Indexed for MEDLINE]
+
+
+7. Ren Fail. 2015 May;37(4):687-93. doi: 10.3109/0886022X.2015.1010991. Epub 2015
+ Feb 23.
+
+Protective effect of sitagliptin against renal ischemia reperfusion injury in 
+rats.
+
+Nuransoy A(1), Beytur A, Polat A, Samdanci E, Sagir M, Parlakpinar H.
+
+Author information:
+(1)Under-Graduated Student .
+
+This study was designed to investigate the protective effects of sitagliptin on 
+renal damage induced by renal ischemia reperfusion (I/R) in rats. For this, rats 
+were randomly divided into four groups (n = 8): (1) sham group, in which the 
+rats only underwent right nephrectomy; (2) right nephrectomy and left kidney 
+ischemia (1 h) and reperfusion (24 h) group (I/R); (3) 5 mg/kg sitagliptin 
+administrated group, per-oral once a day for two weeks; (4) 5 mg/kg sitagliptin 
+administrated group, per-oral once a day for two weeks before left kidney I/R 
+(n = 8). Sitagliptin-treated rats that underwent renal I/R demonstrated 
+significant decrease in the serum urea nitrogen and creatinine and also, lipid 
+peroxidation, total oxidant status and malondialdehyde level in the renal tissue 
+when compared to the renal I/R group. Additionally, reduced glutathione, 
+glutathione peroxidase, superoxide dismutase, catalase and total antioxidative 
+capacity were significantly increased after renal I/R in sitagliptin-treated 
+rats. Our histopathological findings were in accordance with these biochemical 
+results. In sum, in the current study all of our results indicated that 
+sitagliptin treatment ameliorated renal damage induced by renal I/R in rats.
+
+DOI: 10.3109/0886022X.2015.1010991
+PMID: 25703705 [Indexed for MEDLINE]
+
+
+8. Int J Mol Sci. 2025 Jul 30;26(15):7366. doi: 10.3390/ijms26157366.
+
+Targeting GLP-1 Signaling Ameliorates Cystogenesis in a Zebrafish Model of 
+Nephronophthisis.
+
+Eckert P(1), Nöller M(1), Müller M(1), Haas R(1), Ruf J(1), Franz H(2), Moos 
+K(3), Yu JA(1), Zhao D(1), Xie W(1), Boerries M(3)(4), Walz G(1)(5), Yakulov 
+TA(1).
+
+Author information:
+(1)Renal Division, University Freiburg Medical Center, Faculty of Medicine, 
+University of Freiburg, 79106 Freiburg, Germany.
+(2)Department of Biomedicine, University of Basel, 4001 Basel, Switzerland.
+(3)Institute of Medical Bioinformatics and Systems Medicine (IBSM), Medical 
+Center-University of Freiburg, Faculty of Medicine, University of Freiburg, 
+79085 Freiburg, Germany.
+(4)German Cancer Consortium (DKTK), Partner Site University of Freiburg and 
+German Cancer Research Center (DKFZ), 79085 Freiburg, Germany.
+(5)Signalling Research Centres BIOSS and CIBSS, University of Freiburg, 79085 
+Freiburg, Germany.
+
+Nephronophthisis (NPH) is the leading genetic cause of end-stage renal disease 
+in children and young adults, but no effective disease-modifying therapies are 
+currently available. Here, we identify glucagon-like peptide-1 (GLP-1) signaling 
+as a novel therapeutic target for NPH through a systematic drug repurposing 
+screen in zebrafish. By simultaneously depleting nphp1 and nphp4, we developed a 
+robust zebrafish model that reproduces key features of human NPH, including 
+glomerular cyst formation. Our screen revealed that dipeptidyl peptidase-4 
+(DPP4) inhibitors (Omarigliptin and Linagliptin) and GLP-1 receptor agonists 
+(Semaglutide) significantly reduce cystogenesis in a dose-dependent manner. 
+Genetic analysis demonstrated that GLP-1 receptor signaling is important for 
+maintaining pronephros integrity, with gcgra and gcgrb (GLP-1 receptor genes) 
+playing a particularly important role. Transcriptomic profiling identified 
+adenosine receptor A2ab (adora2ab) as a key downstream effector of GLP-1 
+signaling, which regulates ciliary morphology and prevents cyst formation. 
+Notably, nphp1/nphp4 double mutant zebrafish exhibited the upregulation of gcgra 
+as a compensatory mechanism, which might explain their resistance to 
+cystogenesis. This compensation was disrupted by the targeted depletion of GLP-1 
+receptors or the inhibition of adenylate cyclase, resulting in enhanced cyst 
+formation, specifically in the mutant background. Our findings establish a 
+signaling cascade from GLP-1 receptors to adora2ab in terms of regulating 
+ciliary organization and preventing cystogenesis, offering new therapeutic 
+opportunities for NPH through the repurposing of FDA-approved medications with 
+established safety profiles.
+
+DOI: 10.3390/ijms26157366
+PMCID: PMC12347336
+PMID: 40806500 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+9. RETRACTED ARTICLE
+
+Cardiovasc Diabetol. 2017 May 5;16(1):61. doi: 10.1186/s12933-017-0544-4.
+
+Dipeptidyl peptidase-4 (DPP-4) inhibition with linagliptin reduces western 
+diet-induced myocardial TRAF3IP2 expression, inflammation and fibrosis in female 
+mice.
+
+Aroor AR(1)(2), Habibi J(1)(2), Kandikattu HK(1)(2), Garro-Kacher M(1)(2), 
+Barron B(1)(2), Chen D(1)(2), Hayden MR(1), Whaley-Connell A(3)(2), Bender 
+SB(4)(5)(2), Klein T(6), Padilla J(5)(7)(8), Sowers JR(1)(9)(5)(2), Chandrasekar 
+B(10)(9)(5)(2), DeMarco VG(11)(12)(13)(14).
+
+Author information:
+(1)Diabetes and Cardiovascular Center, Department of Medicine, University of 
+Missouri, Columbia, MO, USA.
+(2)Research Service, Harry S. Truman Memorial Veterans' Hospital, Columbia, MO, 
+USA.
+(3)Division of Nephrology, Department of Medicine, University of Missouri, 
+Columbia, MO, USA.
+(4)Biomedical Sciences, University of Missouri, Columbia, MO, USA.
+(5)Dalton Cardiovascular Research Center, University of Missouri, Columbia, MO, 
+USA.
+(6)Boehringer Ingelheim 6, Biberach, Germany.
+(7)Department of Nutrition and Exercise Physiology, University of Missouri, 
+Columbia, MO, USA.
+(8)Department of Child Health, University of Missouri, Columbia, MO, USA.
+(9)Department of Medical Pharmacology and Physiology, University of Missouri, 
+Columbia, MO, USA.
+(10)Division of Cardiovascular Medicine, Department of Medicine, University of 
+Missouri, Columbia, MO, USA.
+(11)Diabetes and Cardiovascular Center, Department of Medicine, University of 
+Missouri, Columbia, MO, USA. demarcov@missouri.edu.
+(12)Department of Medical Pharmacology and Physiology, University of Missouri, 
+Columbia, MO, USA. demarcov@missouri.edu.
+(13)Research Service, Harry S. Truman Memorial Veterans' Hospital, Columbia, MO, 
+USA. demarcov@missouri.edu.
+(14)Department of Medicine, Division of Endocrinology, University of Missouri 
+School of Medicine, Columbia, MO, 65212, USA. demarcov@missouri.edu.
+
+Retraction in
+    Cardiovasc Diabetol. 2026 Sep 11;25(1):276. doi: 10.1186/s12933-026-03370-2.
+
+BACKGROUND: Diastolic dysfunction (DD), a hallmark of obesity and primary defect 
+in heart failure with preserved ejection fraction, is a predictor of future 
+cardiovascular events. We previously reported that linagliptin, a dipeptidyl 
+peptidase-4 inhibitor, improved DD in Zucker Obese rats, a genetic model of 
+obesity and hypertension. Here we investigated the cardioprotective effects of 
+linagliptin on development of DD in western diet (WD)-fed mice, a clinically 
+relevant model of overnutrition and activation of the 
+renin-angiotensin-aldosterone system.
+METHODS: Female C56Bl/6 J mice were fed an obesogenic WD high in fat and simple 
+sugars, and supplemented or not with linagliptin for 16 weeks.
+RESULTS: WD induced oxidative stress, inflammation, upregulation of Angiotensin 
+II type 1 receptor and mineralocorticoid receptor (MR) expression, interstitial 
+fibrosis, ultrastructural abnormalities and DD. Linagliptin inhibited cardiac 
+DPP-4 activity and prevented molecular impairments and associated functional and 
+structural abnormalities. Further, WD upregulated the expression of TRAF3IP2, a 
+cytoplasmic adapter molecule and a regulator of multiple inflammatory mediators. 
+Linagliptin inhibited its expression, activation of its downstream signaling 
+intermediates NF-κB, AP-1 and p38-MAPK, and induction of multiple inflammatory 
+mediators and growth factors that are known to contribute to development and 
+progression of hypertrophy, fibrosis and contractile dysfunction. Linagliptin 
+also inhibited WD-induced collagens I and III expression. Supporting these in 
+vivo observations, linagliptin inhibited aldosterone-mediated MR-dependent 
+oxidative stress, upregulation of TRAF3IP2, proinflammatory cytokine, and growth 
+factor expression, and collagen induction in cultured primary cardiac 
+fibroblasts. More importantly, linagliptin inhibited aldosterone-induced 
+fibroblast activation and migration.
+CONCLUSIONS: Together, these in vivo and in vitro results suggest that 
+inhibition of DPP-4 activity by linagliptin reverses WD-induced DD, possibly by 
+targeting TRAF3IP2 expression and its downstream inflammatory signaling.
+
+DOI: 10.1186/s12933-017-0544-4
+PMCID: PMC5420102
+PMID: 28476142 [Indexed for MEDLINE]
+
+
+10. Environ Toxicol Pharmacol. 2021 Aug;86:103668. doi:
+10.1016/j.etap.2021.103668.  Epub 2021 May 1.
+
+Saxagliptin defers thioacetamide-induced hepatocarcinogenesis in rats: A novel 
+suppressive impact on Wnt/Hedgehog/Notch1 signaling.
+
+Abd Elhameed AG(1), Helal MG(2), Said E(3), Salem HA(2).
+
+Author information:
+(1)Dep. of Pharmacology and Toxicology, Faculty of Pharmacy, Mansoura 
+University, Mansoura, Egypt; Dep. of Pharmacology, Faculty of Pharmacy, Horus 
+University-Egypt, New Damietta, Egypt.
+(2)Dep. of Pharmacology and Toxicology, Faculty of Pharmacy, Mansoura 
+University, Mansoura, Egypt.
+(3)Dep. of Pharmacology and Toxicology, Faculty of Pharmacy, Mansoura 
+University, Mansoura, Egypt. Electronic address: emansaid@mans.edu.eg.
+
+AIM: Hepatocellular carcinoma (HCC) is a highly invasive form of hepatic cancer. 
+It is a highly intricate disease with multiple pathophysiological mechanisms 
+underlying its pathogenesis.
+MATERIALS AND METHODS: The results of the current investigation shed light on 
+the ability of saxagliptin (SAXA) (12.5 mg/kg) to defer HCC progression in an 
+experimental model of thioacetamide (TAA)-induced hepatocarcinogenesis.
+RESULTS: SAXA administration improved liver function biomarkers, with a 
+concomitant histopathological recovery. Mechanistically, the observed 
+hepatoprotective impact was associated with significant suppression of the 
+hepatic content of Wnt3a, β-catenin, Notch1, Smo, and Gli2 and enhanced 
+expression of GSK 3β. Nevertheless, the hepatic expression of PCNA, P53, and 
+cyclin D1 was significantly enhanced, with a parallel increase in the tumor 
+expression of caspase-3. Thus, it appears that SAXA significantly enhanced tumor 
+apoptosis, with concomitant suppression of HCC proliferation.
+CONCLUSION: SAXA deferred experimentally-induced HCC via suppressing 
+Wnt/Hedgehog/Notch1 Signaling, with enhanced tumor apoptosis and suppressed 
+proliferation.
+
+Copyright © 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.etap.2021.103668
+PMID: 33945853 [Indexed for MEDLINE]
+
+
+11. FASEB J. 2025 Dec 15;39(23):e71264. doi: 10.1096/fj.202501322RR.
+
+Dipeptidyl Peptidase 4 Mediated Caspase-8 Affects Cognitive Impairment in Mice 
+With Alzheimer's Disease.
+
+Wang X(1)(2), Chen L(3), Qiu J(1)(4), Wang K(5), Xi P(1), Cheng X(6), He Z(5), 
+Jiang H(1).
+
+Author information:
+(1)Department of Physiology and Pathophysiology, Jiaxing University Medical 
+College, Jiaxing, China.
+(2)State Key Laboratory of Brain Function and Disorders, Institutes of Brain 
+Science, Fudan University, Shanghai, China.
+(3)Northeast Yunnan Regional Central Hospital, Zhaotong, China.
+(4)College of Life Sciences and Medicine, Zhejiang Sci-Tech University, 
+Hangzhou, China.
+(5)Department of Pharmacology, Jiaxing University Medical College, Jiaxing, 
+China.
+(6)Department of Cardiology and Hypertension, Yanbian University Hospital, 
+Yanji, China.
+
+To investigate the effect of dipeptidyl peptidase 4 (DPP4) on cognitive 
+impairment in Alzheimer's disease (AD), the present study used seven-week-old 
+male C57BL/6J and DPP4 knockout mice. The AD model was induced by microinjection 
+of Aβ25-35 into the lateral ventricle. Morris water maze test showed that DPP4 
+knockout significantly improved the spatial learning and memory abilities of AD 
+mice. Western blot results showed that DPP4 knockout increased the expression 
+levels of BDNF, CREB and Bcl-2 in the hippocampus of AD mice while the 
+expression levels of Caspase-8, pyroptosis-related proteins NLRP3, Caspase-1, 
+GSDMD, IL-118, IL-1β, and apoptosis-related proteins Caspase-3 and Bax were 
+decreased. Similar results were observed after HT22 neurons were treated with 
+Aβ25-35 and the DPP4 inhibitor sitagliptin (Sit). Moreover, the treatment with a 
+Caspase-8 inhibitor (Z-LETD-FMK) showed that the inhibition of Caspase-8 
+inhibited the expression of NLRP3 and Caspase-1 in the AD model cells, but had 
+no further inhibitory effect under the treatment of Sit. Our results suggest 
+that DPP4 knockout may ameliorate learning and memory dysfunction in AD model 
+mice by regulating pyroptosis and apoptosis pathways through Caspase-8.
+
+© 2025 Federation of American Societies for Experimental Biology.
+
+DOI: 10.1096/fj.202501322RR
+PMID: 41307478 [Indexed for MEDLINE]
+
+
+12. Hypertension. 2018 Aug;72(2):466-475. doi: 10.1161/HYPERTENSIONAHA.118.10993.
+ Epub 2018 Jun 11.
+
+Saxagliptin Prevents Increased Coronary Vascular Stiffness in Aortic-Banded Mini 
+Swine.
+
+Fleenor BS(1), Ouyang A(2), Olver TD(3), Hiemstra JA(3), Cobb MS(3), Minervini 
+G(4), Emter CA(3).
+
+Author information:
+(1)From the Human Performance Laboratory, School of Kinesiology, Ball State 
+University, Muncie, IN (B.S.F.) bsfleenor@bsu.edu.
+(2)Department of Kinesiology and Health Promotion, University of Kentucky, 
+Lexington (A.O.).
+(3)Department of Biomedical Science, University of Missouri, Columbia (T.D.O., 
+J.A.H., M.S.C., C.A.E.).
+(4)AstraZeneca, Fort Washington, PA (G.M.).
+
+Increased peripheral conduit artery stiffness has been shown in patients with 
+heart failure (HF) with preserved ejection fraction. However, it is unknown 
+whether this phenomenon extends to the coronary vasculature. HF with preserved 
+ejection fraction may be driven, in part, by coronary inflammation, and 
+inhibition of the enzyme DPP-4 (dipeptidyl-peptidase 4) reduces inflammation and 
+oxidative stress. The purpose of this study was to determine the effect of 
+saxagliptin-a DPP-4 inhibitor-on coronary stiffness in aortic-banded mini swine. 
+We hypothesized saxagliptin would prevent increased coronary artery stiffness in 
+a translational swine model with cardiac features of HF with preserved ejection 
+fraction by inhibiting perivascular adipose tissue inflammation. Yucatan mini 
+swine were divided into 3 groups: control, aortic-banded untreated HF, and 
+aortic-banded saxagliptin-treated HF. Ex vivo mechanical testing was performed 
+on the left circumflex and right coronary arteries, and advanced glycation end 
+product, NF-κB (nuclear factor-κB), and nitrotyrosine levels were measured. An 
+increase in the coronary elastic modulus of HF animals was associated with 
+increased vascular advanced glycation end products, NF-κB, and nitrotyrosine 
+levels compared with control and prevented by saxagliptin treatment. Aortas from 
+healthy mice were treated with media from swine perivascular adipose tissue 
+culture to assess its role on vascular stiffening. Conditioned media from HF and 
+saxagliptin-treated HF animals increased mouse aortic stiffness; however, only 
+perivascular adipose tissue from the HF group showed increased advanced 
+glycation end products and NF-κB levels. In conclusion, our data show increased 
+coronary conduit vascular stiffness was prevented by saxagliptin and associated 
+with decreased advanced glycation end products, NF-κB, and nitrotyrosine levels 
+in a swine model with potential relevance to HF with preserved ejection 
+fraction.
+
+© 2018 American Heart Association, Inc.
+
+DOI: 10.1161/HYPERTENSIONAHA.118.10993
+PMID: 29891647 [Indexed for MEDLINE]
+
+
+13. Phytother Res. 2022 Mar;36(3):1297-1309. doi: 10.1002/ptr.7387. Epub 2022 Jan
+ 28.
+
+A novel DPP-4 inhibitor Gramcyclin A attenuates cognitive deficits in 
+APP/PS1/tau triple transgenic mice via enhancing brain GLP-1-dependent glucose 
+uptake.
+
+Li Z(1), Zhang Y(1), Meng X(1)(2), Li M(3), Cao W(1), Yang J(4), Xu X(4), Liu 
+W(1), Li W(1), Cai Q(2), Wang S(5), Ma G(4), Liu Z(6), Huang G(1).
+
+Author information:
+(1)Department of Neurosurgery, Shenzhen Key Laboratory of Neurosurgery, Inst 
+Translat Med, the First Affiliated Hospital of Shenzhen University, Shenzhen 
+Second People's Hospital, Shenzhen, China.
+(2)College of Pharmacy, Jinan University, Guangzhou, China.
+(3)School of Chinese Medicine, Hong Kong Baptist University, Hong Kong, China.
+(4)Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences 
+and Peking Union Medical College, Beijing, China.
+(5)School of Medicine, Xi'an Jiaotong University, Xi'an, China.
+(6)Department of Anesthesiology, the First Affiliated Hospital of Shenzhen 
+University, Shenzhen Second People's Hospital, Shenzhen, China.
+
+Enhancing glucagon-like peptide 1 (GLP-1) signaling with a dipeptidyl peptidase 
+IV (DPP-4) inhibitor might exert protective effects on Alzheimer's disease (AD). 
+We found that intragastric administration of Gramcyclin A (10, 20 and 40 mg/kg), 
+a novel DPP-4 inhibitor, for 3 months significantly reversed cognitive decline 
+in APP/PS1/tau triple transgenic mice in a dose-dependent manner. Gramcyclin A 
+treatment markedly reduced Aβ plaques as well as the insoluble and soluble forms 
+of Aβ40 and Aβ42 in the hippocampus of APP/PS1/tau mice. Treatment with 
+Gramcyclin A remarkedly decreased the level of microglia and suppressed 
+neuroinflammation in the hippocampus of APP/PS1/tau mice. Moreover, Gramcyclin A 
+treatment could increase brain glucose uptake in APP/PS1/tau mice, as detected 
+by 18-fluoro-2-deoxyglucose (18 F-FDG) micro-positron emission tomography 
+(micro-PET) imaging. Furthermore, Gramcyclin A significantly increased 
+expression of glucagon-like peptide-1 (GLP-1), GLP-1R, proliferator-activated 
+receptor gamma coactivator (PGC)-1α and glucose transporter 4 (GLUT4), and 
+inhibited insulin receptor (IRS)-1 phosphorylation and tau hyperphosphorylation 
+in the hippocampus of APP/PS1/tau mice. Collectively, Gramcyclin A conferred 
+protective effects against AD via enhancing brain GLP-1-dependent glucose 
+uptake. The DPP-4 inhibitor Gramcyclin A might be a potential therapeutic drug 
+for AD.
+
+© 2022 John Wiley & Sons Ltd.
+
+DOI: 10.1002/ptr.7387
+PMID: 35088915 [Indexed for MEDLINE]
+
+
+14. World J Gastroenterol. 2014 Nov 21;20(43):16227-35. doi: 
+10.3748/wjg.v20.i43.16227.
+
+MK-0626, a selective DPP-4 inhibitor, attenuates hepatic steatosis in ob/ob 
+mice.
+
+Ohyama T(1), Sato K(1), Yamazaki Y(1), Hashizume H(1), Horiguchi N(1), Kakizaki 
+S(1), Mori M(1), Kusano M(1), Yamada M(1).
+
+Author information:
+(1)Tatsuya Ohyama, Ken Sato, Yuichi Yamazaki, Hiroaki Hashizume, Norio 
+Horiguchi, Satoru Kakizaki, Masatomo Mori, Masanobu Yamada, Department of 
+Medicine and Molecular Science, Gunma University Graduate School of Medicine, 
+Gunma 371-8511, Japan.
+
+AIM: To investigate the mechanism and in vivo effects of MK-0626, a dipeptidyl 
+peptidase-4 inhibitor, on hepatic steatosis using ob/ob mice.
+METHODS: We analyzed obese (ob/ob) 8-wk-old male mice that had been randomly 
+divided into two groups of ob/ob mice (n = 16 each) and were treated with 1.5 or 
+3 mg/kg MK-0626 and two control groups of untreated ob/ob mice and lean 
+littermates (n = 16 each). All mice were fed a normal chow diet with or without 
+MK-0626 for either four or eight weeks. Blood samples were collected, and total 
+hepatectomy was performed.
+RESULTS: The administration of dietary MK-0626 ameliorated the hepatic lipid 
+accumulation in ob/ob mice treated with 3 mg/kg MK-0626 (3 MK), P < 0.05, vs 
+untreated ob/ob mice (ob/ob). The MK-0626 treatment reduced the serum alanine 
+aminotransferase levels (both treatment groups, P < 0.05 vs ob/ob) and 
+glucoses/insulin levels/calculated HOMA scores (1.5 MK, P < 0.05 vs ob/ob; 3 MK, 
+P < 0.01 vs ob/ob) and increased the serum adiponectin levels (3 MK, P < 0.05 vs 
+ob/ob) in a dose-dependent manner. The MK-0626 treatment increased the mRNA 
+expression of peroxisome proliferator-activated receptor α/microsomal 
+triglyceride transfer protein (1.5 MK, P < 0.05 vs ob/ob; 3 MK, P < 0.01 vs 
+ob/ob) but reduced the sterol regulatory element binding transcription 
+factor-1c/fatty acid synthase/stearoyl-CoA desaturase-1 (both treatment groups, 
+P < 0.01 vs ob/ob). The MK-0626 treatment increased the activity of 
+AMP-activated protein kinase (AMPK) (both treatment groups, P < 0.01 vs ob/ob).
+CONCLUSION: MK-0626 could attenuate hepatic steatosis through enhancing AMPK 
+activity, inhibiting hepatic lipogenic gene expression, enhancing triglyceride 
+secretion from liver and increasing serum adiponectin levels.
+
+DOI: 10.3748/wjg.v20.i43.16227
+PMCID: PMC4239511
+PMID: 25473177 [Indexed for MEDLINE]
+
+
+15. Cardiovasc Diabetol. 2018 Dec 27;17(1):160. doi: 10.1186/s12933-018-0803-z.
+
+Alogliptin prevents diastolic dysfunction and preserves left ventricular 
+mitochondrial function in diabetic rabbits.
+
+Zhang X(1), Zhang Z(1), Yang Y(1), Suo Y(1), Liu R(1), Qiu J(1), Zhao Y(2), 
+Jiang N(2), Liu C(1), Tse G(3)(4), Li G(5), Liu T(6).
+
+Author information:
+(1)Tianjin Key Laboratory of Ionic-Molecular Function of Cardiovascular Disease, 
+Department of Cardiology, Tianjin Institute of Cardiology, Second Hospital of 
+Tianjin Medical University, No. 23 Pingjiang Road, Hexi District, Tianjin, 
+300211, People's Republic of China.
+(2)Tianjin Key Laboratory of Exercise Physiology and Sports Medicine, Department 
+of Health & Exercise Science, Tianjin University of Sport, Tianjin, 300381, 
+People's Republic of China.
+(3)Department of Medicine and Therapeutics, Chinese University of Hong Kong, 
+Hong Kong, SAR, China.
+(4)Li Ka Shing Institute of Health Sciences, Chinese University of Hong Kong, 
+Hong Kong, SAR, China.
+(5)Tianjin Key Laboratory of Ionic-Molecular Function of Cardiovascular Disease, 
+Department of Cardiology, Tianjin Institute of Cardiology, Second Hospital of 
+Tianjin Medical University, No. 23 Pingjiang Road, Hexi District, Tianjin, 
+300211, People's Republic of China. tjcardiol@126.com.
+(6)Tianjin Key Laboratory of Ionic-Molecular Function of Cardiovascular Disease, 
+Department of Cardiology, Tianjin Institute of Cardiology, Second Hospital of 
+Tianjin Medical University, No. 23 Pingjiang Road, Hexi District, Tianjin, 
+300211, People's Republic of China. liutongdoc@126.com.
+
+BACKGROUND: There are increasing evidence that left ventricle diastolic 
+dysfunction is the initial functional alteration in the diabetic myocardium. In 
+this study, we hypothesized that alogliptin prevents diastolic dysfunction and 
+preserves left ventricular mitochondrial function and structure in diabetic 
+rabbits.
+METHODS: A total of 30 rabbits were randomized into control group (CON, n = 10), 
+alloxan-induced diabetic group (DM, n = 10) and alogliptin-treated 
+(12.5 mg/kd/day for 12 weeks) diabetic group (DM-A, n = 10). Echocardiographic 
+and hemodynamic studies were performed in vivo. Mitochondrial morphology, 
+respiratory function, membrane potential and reactive oxygen species (ROS) 
+generation rate of left ventricular tissue were assessed. The serum 
+concentrations of glucagon-like peptide-1, insulin, inflammatory and oxidative 
+stress markers were measured. Protein expression of TGF-β1, NF-κB p65 and 
+mitochondrial biogenesis related proteins were determined by Western blotting.
+RESULTS: DM rabbits exhibited left ventricular hypertrophy, left atrial 
+dilation, increased E/e' ratio and normal left ventricular ejection fraction. 
+Elevated left ventricular end diastolic pressure combined with decreased maximal 
+decreasing rate of left intraventricular pressure (- dp/dtmax) were observed. 
+Alogliptin alleviated ventricular hypertrophy, interstitial fibrosis and 
+diastolic dysfunction in diabetic rabbits. These changes were associated with 
+decreased mitochondrial ROS production rate, prevented mitochondrial membrane 
+depolarization and improved mitochondrial swelling. It also improved 
+mitochondrial biogenesis by PGC-1α/NRF1/Tfam signaling pathway.
+CONCLUSIONS: The DPP-4 inhibitor alogliptin prevents cardiac diastolic 
+dysfunction by inhibiting ventricular remodeling, explicable by improved 
+mitochondrial function and increased mitochondrial biogenesis.
+
+DOI: 10.1186/s12933-018-0803-z
+PMCID: PMC6307280
+PMID: 30591063 [Indexed for MEDLINE]
+
+
+16. J Chem Neuroanat. 2020 Dec;110:101855. doi: 10.1016/j.jchemneu.2020.101855.
+Epub  2020 Oct 5.
+
+Combination therapy with dipeptidyl peptidase-4 and P2X7 purinoceptor inhibitors 
+gives rise to antiepileptic effects in rats.
+
+Jamali-Raeufy N(1), Barati H(2), Baluchnejadmojarad T(3), Roghani M(4), Goudarzi 
+M(5).
+
+Author information:
+(1)Department of Physiology, School of Medicine, Iran University of Medical 
+Sciences, Tehran, Iran. Electronic address: Jamali_nida@yahoo.com.
+(2)Department of Physiology, School of Medicine, Iran University of Medical 
+Sciences, Tehran, Iran. Electronic address: Barati@yahoo.com.
+(3)Department of Physiology, School of Medicine, Iran University of Medical 
+Sciences, Tehran, Iran. Electronic address: tmojarad@yahoo.com.
+(4)Neurophysiology Research Center, Department of Physiology, Shahed University, 
+Tehran, Iran. Electronic address: Mroghani@shahed.ac.ir.
+(5)Department of Physiology, School of Medicine, Iran University of Medical 
+Sciences, Tehran, Iran. Electronic address: Minagoudarzi6825@yahoo.com.
+
+OBJECTIVE(S): Although the available therapeutic agents alleviate the symptoms 
+in patients with temporal lobe epilepsy (TLE), these antiepileptic drugs do not 
+provide adequate control of seizures in 30-40 % of patients. This study was 
+conducted to evaluate anti-epileptic effects of simultaneous inhibition of 
+dipeptidyl peptidase-4 and P2 × 7 purinoceptors in Kainate treated rats.
+MATERIALS AND METHODS: Brilliant Blue G)BBG(, linagliptin)lin(and lin + BBG were 
+administrated 30 min prior to induction of the intrahippocampal kainate model of 
+epilepsy in male Wistar rats. In the case of valproic acid group, the animals 
+intraperitoneally received valproic acid for 7 consecutive days prior to 
+induction of the model. We carried out histological evaluations, monitoring of 
+behavior, recording of intracranial electroencepholography (IEEG), and 
+determination of astrogliosis and DNA fragmentation using ELISA methods.
+RESULTS: Our results showed that BBG and lin combination therapy had better 
+effects on decrease in astrogliosis, DNA fragmentation and cognitive 
+disturbances than ones whereas its effects on neuronal survival and seizure 
+severity was similar to only BBG or lin. Likewise, the effects of lin + BBG on 
+decrease in DNA fragmentation and cognitive disturbances were better than 
+valproic acid group.
+CONCLUSION: Our findings suggest that simultaneous inhibition of dipeptidyl 
+peptidase-4 and P2 × 7 purinoceptors might more efficiently provide protection 
+against progression of the kainate-induced TLE in rats.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jchemneu.2020.101855
+PMID: 33031915 [Indexed for MEDLINE]
+
+
+17. Int J Neuropsychopharmacol. 2024 Dec 1;27(12):pyae062. doi: 
+10.1093/ijnp/pyae062.
+
+Exploring the Anxiolytic Potential of NPY by a Dipeptidyl Peptidase-IV Inhibitor 
+in an Animal Model of PTSD.
+
+Dahan M(1)(2), Zohar J(3), Todder D(4)(1), Mathé AA(5), Cohen H(4)(1)(2).
+
+Author information:
+(1)Anxiety and Stress Research Unit, Ministry of Health, Beer-Sheva Mental 
+Health Center, Beer-Sheva, Israel.
+(2)Department of Psychology, Ben-Gurion University of the Negev, Beer-Sheva, 
+Israel.
+(3)Post-Trauma Center, Sheba Medical Center, Tel Aviv University, Tel Aviv, 
+Israel.
+(4)Faculty of Health Sciences, Ben-Gurion University of the Negev, Beer-Sheva, 
+Israel.
+(5)Karolinska Institute Clinical Neuroscience, Karolinska University Hospital 
+Huddinge, Stockholm, Sweden.
+
+BACKGROUND: The regulatory neuropeptide Y (NPY) is implicated in anxiety and 
+post-traumatic stress disorder (PTSD)-related behaviors. NPY exerts its effects 
+through 5 receptor subtypes, with Y1 and Y2 receptors being predominantly 
+expressed in the rat brain. Activation of Y1 by full-length NPY1-36 induces 
+anxiolytic effects, whereas Y2 binds truncated peptides, eliciting 
+region-specific anxiogenic responses. Dipeptidyl peptidase-IV (DPP-IV) cleaves 
+NPY, thereby modulating its functionality. Sitagliptin, a DPP-IV inhibitor 
+(DPP-IV-I), inhibits the degradation of various vasoactive peptides, including 
+cerebral NPY. As such, the therapeutic potential of DPP-IV-I following a 
+traumatic event remains inconclusive. We assessed the effects of a highly 
+selective DPP-IV-I, administered either shortly after the stressor or 
+intermittently over 3 days, on behavioral outcomes using the predator scent 
+stress (PSS) model of PTSD.
+METHODS: Rats exposed to PSS or sham-PSS received a single dose of sitagliptin 
+(10 or 30 mg/kg) or saline 1 hour post-exposure, or repeated doses over 3 days 
+(20 mg/kg). Behavioral outcomes were evaluated using the elevated plus maze and 
+acoustic startle response at 7 days post-exposure. Additionally, rats exposed to 
+PSS or sham-PSS were treated with sitagliptin (30 mg/kg) or saline, and their 
+brains were prepared for immunofluorescence and enzyme-linked immunosorbent 
+assay (ELISA).
+RESULTS: Sitagliptin did not attenuate anxiety-related behaviors or PTSD-related 
+behavior prevalence compared to saline. Notably, the 30 mg/kg dose increased NPY 
+levels in several brain regions without affecting NPY-Y1 levels.
+CONCLUSIONS: The findings suggest that sitagliptin-induced upregulation of NPY 
+levels shortly after PSS is insufficient to prevent the development of 
+post-traumatic responses. The effectiveness of NPY signaling may be influenced 
+by factors beyond peptide concentration alone, potentially limiting its 
+therapeutic efficacy. Activation of NPY-Y1 receptors, rather than merely 
+increasing NPY levels, appears to be crucial for modulating anti-anxiety and 
+post-traumatic responses.
+
+© The Author(s) 2024. Published by Oxford University Press on behalf of CINP.
+
+DOI: 10.1093/ijnp/pyae062
+PMCID: PMC11653009
+PMID: 39626016 [Indexed for MEDLINE]
+
+
+18. Pharm Dev Technol. 2024 Oct;29(8):874-885. doi:
+10.1080/10837450.2024.2407852.  Epub 2024 Sep 30.
+
+Sustained linagliptin administration: superior glycemic control and less 
+pancreatic injury in diabetic rats.
+
+Zakaria EM(1), El-Gamal SF(1), Mahmoud SM(2), El-Nahas HM(3), El-Bassossy HM(1).
+
+Author information:
+(1)Department of Pharmacology and Toxicology, Faculty of Pharmacy, Zagazig 
+University, Zagazig, Egypt.
+(2)Department of Human Anatomy and Embryology, Faculty of Medicine, Zagazig 
+University, Zagazig, Egypt.
+(3)Department of Pharmaceutics, Faculty of Pharmacy, Zagazig University, 
+Zagazig, Egypt.
+
+While linagliptin is the most potent dipeptidyl peptidase 4 inhibitor, its use 
+is limited due to poor bioavailability and the potential risk of pancreatic 
+injury. Here, we investigated whether the sustained weekly administration of 
+linagliptin could provide better effect compared to frequent daily oral 
+administration. Type 2 diabetes was induced by feeding rats a high 
+fructose/fat/salt diet followed by STZ injection. Compared to the partial 
+glycemic control achieved with daily oral linagliptin, a weekly subcutaneous 
+injection containing about one-fourth of the oral dose produced superior 
+glycemic control, as evidenced by the 4-week postprandial glucose follow-up and 
+oral glucose tolerance test. This was confirmed by the significant increase in 
+serum insulin in the case of the sustained linagliptin administration. Higher 
+levels of the anti-inflammatory cytokine adiponectin and lower triglyceride 
+levels were observed after sustained linagliptin administration compared with 
+daily oral linagliptin. In addition, sustained linagliptin displayed a 
+significant increase in β-cells' insulin immunoreactivity when compared with 
+daily linagliptin. More reduction in collagen deposition and caspase-3 
+immunoreactivity in pancreatic tissue were observed in sustained linagliptin 
+compared with oral linagliptin. In conclusion, sustained linagliptin 
+administration provided superior glycemic control, which seems to be mediated by 
+more reduction in pancreatic injury.
+
+DOI: 10.1080/10837450.2024.2407852
+PMID: 39311002 [Indexed for MEDLINE]
+
+
+19. J Diabetes Investig. 2023 Jul;14(7):844-855. doi: 10.1111/jdi.14017. Epub
+2023  Apr 24.
+
+Linagliptin ameliorated cardiac fibrosis and restored cardiomyocyte structure in 
+diabetic mice associated with the suppression of necroptosis.
+
+Adhikari J(#)(1), Hirai T(#)(2), Kawakita E(1)(2), Iwai K(3), Koya D(2)(4), 
+Kanasaki K(1)(2)(4).
+
+Author information:
+(1)Department of Internal Medicine 1, Faculty of Medicine, Shimane University, 
+Izumo, Shimane, Japan.
+(2)Department of Diabetes and Endocrinology, Kanazawa Medical University, Kahoku 
+District, Ishikawa, Japan.
+(3)Health Evaluation Center, Kanazawa Medical University Hospital, Kahoku 
+District, Ishikawa, Japan.
+(4)Division of Anticipatory Molecular Food Science and Technology, Medical 
+Research Institute, Kanazawa Medical University, Kahoku District, Ishikawa, 
+Japan.
+(#)Contributed equally
+
+AIMS/INTRODUCTION: Linagliptin is a selective dipeptidyl peptidase (DPP)-4 
+inhibitor capable of successfully regulating blood glucose levels. The 
+cardiovascular protective effects of several DPP-4 inhibitors have been shown in 
+preclinical studies; however, the detailed influence of DPP-4 inhibitors on 
+diabetic pathological alterations in cardiac tissue has not yet been elucidated.
+MATERIALS AND METHODS: We combined laboratory-based experiments and 
+bioinformatics techniques to identify suitable candidate targets with 
+significant biological pathways. Mice with streptozotocin-induced insulin 
+deficiency diabetic model were utilized for in vivo experiments. Mice were 
+euthanized at 24 weeks after the induction of diabetes; linagliptin intervention 
+was carried out for 4 weeks before euthanasia. Microarray analysis of heart 
+samples was carried out.
+RESULTS: Mice with streptozotocin-induced diabetes, but not control mice, showed 
+cardiac fibrosis with an endothelial-mesenchymal transition program, and 
+myocardial fiber and sarcomere disruption; linagliptin alleviated these 
+diabetes-associated pathological alterations without altering blood glucose 
+levels. Bioinformatics analysis utilizing a microarray dataset identified 10 hub 
+genes that were confirmed to have human disease relevance by Gene Expression 
+Omnibus analysis. Among these hub genes, we focused on the Sox9-necroptosis axis 
+as a therapeutic target in diabetic hearts. Indeed, diabetic mice showed the 
+induction of necroptosis-associated genes and the phosphorylation of RIP3 and 
+mixed lineage kinase domain-like protein.
+CONCLUSIONS: Linagliptin showed excellent heart protection in mice with 
+streptozotocin-induced diabetes associated with alterations in human 
+disease-relevant hub genes. Further investigation is required to determine why 
+DPP-4 inhibitors do not show similar superior organ-protective effects in the 
+clinical setting.
+
+© 2023 The Authors. Journal of Diabetes Investigation published by Asian 
+Association for the Study of Diabetes (AASD) and John Wiley & Sons Australia, 
+Ltd.
+
+DOI: 10.1111/jdi.14017
+PMCID: PMC10286787
+PMID: 37092329 [Indexed for MEDLINE]
+
+
+20. Int Immunopharmacol. 2025 Dec 10;167:115672. doi:
+10.1016/j.intimp.2025.115672.  Epub 2025 Oct 15.
+
+Sitagliptin inhibits neuronal ferroptosis to alleviate cognitive dysfunction by 
+activating Nrf2-SLC7A11-GPX4 axis in diabetic mice.
+
+Meng H(1), Xie Z(2), Xu T(2), Kong S(2), Wang M(2), Zhu Q(2), Zhang Y(2), Zhu 
+Z(2), Wu M(2), Wang Y(3), Chen C(4), Han J(5), Che H(6).
+
+Author information:
+(1)Department of Pharmacology, Wannan Medical College, Wuhu 241002, China; Anhui 
+Innovative Center for Drug Basic Research of Metabolic Diseases, Wannan Medical 
+College, Wuhu 241002, China.
+(2)Department of Pharmacology, Wannan Medical College, Wuhu 241002, China.
+(3)Department of Endocrinology and Metabolism, Ningbo No. 2 Hospital, Ningbo, 
+Zhejiang, China.
+(4)Department of Pharmacology, Wannan Medical College, Wuhu 241002, China. 
+Electronic address: cchd208@163.com.
+(5)Anhui College of Traditional Chinese Medicine, Wuhu 241002, China. Electronic 
+address: hanjun@wnmc.edu.cn.
+(6)Department of Pharmacology, Wannan Medical College, Wuhu 241002, China; Anhui 
+Innovative Center for Drug Basic Research of Metabolic Diseases, Wannan Medical 
+College, Wuhu 241002, China; Department of Endocrinology and Genetic Metabolism, 
+The First Affiliated Hospital of Wannan Medical College (Yijishan Hospital of 
+Wannan Medical College), Wuhu 241002, China. Electronic address: 
+chehui1203@163.com.
+
+Diabetic cognitive dysfunction (DCD) is one of the major complications of type 2 
+diabetes mellitus (T2DM). At present, there is still no clinical consensus on 
+the improvement and treatment of DCD, mainly due to limitations in understanding 
+the pathogenesis and a lack of effective drugs. Sitagliptin, a dipeptidyl 
+peptidase-4 (DPP-4) inhibitor, shows potential for alleviating DCD. However, its 
+neuroprotective mechanisms remain inadequately explored. Herein, our findings 
+showed that sitagliptin reduced fasting blood glucose, decreased body weight, 
+lowered insulin resistance, and attenuated levels of inflammatory markers in 
+diabetic mice. Moreover, sitagliptin treatment significantly ameliorated 
+DM-induced disability of learning and memory. Subsequently, we observed that 
+sitagliptin impedes neuronal ferroptosis both in diabetic mice and high glucose 
+combined with palmitic acid (HG + PA)-stimulated primary neurons and PC12 
+neuronal cells, partly reflected in decreased lipid and intracellular reactive 
+oxygen species (ROS) levels, increased glutathione (GSH) and superoxide 
+dismutase (SOD) levels, reduced malondialdehyde (MDA) content, and elevated 
+expression of ferroptosis-related proteins such as glutathione peroxidase 4 
+(GPX4) and solute carrier family 7 member 11 (SLC7A11), compared to the 
+corresponding alterations observed in diabetic mice. Mechanistically, molecular 
+docking and cellular thermal shift assays revealed that sitagliptin directly 
+binds to and enhances the nuclear factor erythroid 2-related factor 2 (Nrf2) 
+expression. Moreover, genetic loss of Nrf2 by transfected Nrf2 siRNA 
+significantly blunted sitagliptin-induced ferroptosis inhibition in primary 
+neurons and PC12 neuronal cells under HG + PA conditions, whereas Nrf2 
+overexpression further augmented the beneficial effect of sitagliptin on 
+impeding neuronal ferroptosis. These data indicated that sitagliptin regulated 
+Nrf2 expression, which modulated the SLC7A11-GPX4 axis, inhibited neuronal 
+ferroptosis, and finally ameliorated diabetic cognitive dysfunction.
+
+Copyright © 2025. Published by Elsevier B.V.
+
+DOI: 10.1016/j.intimp.2025.115672
+PMID: 41101229 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
