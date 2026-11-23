@@ -1,0 +1,161 @@
+{
+  "tag": "OMICS",
+  "studies": [
+    {
+      "pmid": "42500125",
+      "eligible": true,
+      "design": "前瞻性队列研究（原始研究，符合PICOS：URPL人群，代谢组+蛋白质组生物标志物，随访12个月）",
+      "outcomes": [
+        {
+          "name": "受孕（conception）",
+          "effect_type": null,
+          "events_t": null,
+          "n_t": null,
+          "events_c": null,
+          "n_c": null,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        },
+        {
+          "name": "持续妊娠超过12周 / 12周前早期流产（多组学因素关联结局）",
+          "effect_type": null,
+          "events_t": null,
+          "n_t": null,
+          "events_c": null,
+          "n_c": null,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        }
+      ]
+    },
+    {
+      "pmid": "41000384",
+      "eligible": true,
+      "design": "病例对照研究（原始研究：34例uRPL vs 30例健康对照，血清NETs标志物+蜕膜转录组）",
+      "outcomes": [
+        {
+          "name": "NETs生物标志物（MPO-DNA、citH3）差异表达（病例vs对照）",
+          "effect_type": null,
+          "events_t": null,
+          "n_t": 34,
+          "events_c": null,
+          "n_c": 30,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        }
+      ]
+    },
+    {
+      "pmid": "39892135",
+      "eligible": true,
+      "design": "病例对照研究（原始研究：48例EPL患者vs健康孕妇，血清代谢组学+机器学习风险预测模型）",
+      "outcomes": [
+        {
+          "name": "随机森林模型预测EPL风险准确率（摘要仅报告准确率95%，未给出AUC/敏感度/特异度或四格表计数）",
+          "effect_type": null,
+          "events_t": null,
+          "n_t": 48,
+          "events_c": null,
+          "n_c": null,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        }
+      ]
+    },
+    {
+      "pmid": "40450232",
+      "eligible": true,
+      "design": "诊断准确性/生物信息学研究（原始研究：单细胞转录组+机器学习，蜕膜组织RPL vs正常妊娠，WGCNA+RT-PCR/IHC验证）",
+      "outcomes": [
+        {
+          "name": "TRAF3作为RPL诊断生物标志物（摘要未给出AUC/敏感度/特异度数值）",
+          "effect_type": null,
+          "events_t": null,
+          "n_t": null,
+          "events_c": null,
+          "n_c": null,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        }
+      ]
+    },
+    {
+      "pmid": "39225907",
+      "eligible": true,
+      "design": "生物信息学/诊断准确性研究（原始研究：GSE165004数据集+氧化应激基因+机器学习筛选诊断标志物，构建ROC与nomogram）",
+      "outcomes": [
+        {
+          "name": "氧化应激相关诊断标志物诊断RPL的ROC（摘要未给出AUC/CI数值）",
+          "effect_type": null,
+          "events_t": null,
+          "n_t": null,
+          "events_c": null,
+          "n_c": null,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        }
+      ]
+    },
+    {
+      "pmid": "39534907",
+      "eligible": true,
+      "design": "病例对照研究（原始研究：128例URPL vs 126例对照，MTHFR基因多态性C677T/A1298C+血浆同型半胱氨酸，建立预测模型）",
+      "outcomes": [
+        {
+          "name": "MTHFR多态性/高同型半胱氨酸与URPL关联（摘要截断，未给出四格表计数或效应量）",
+          "effect_type": null,
+          "events_t": null,
+          "n_t": 128,
+          "events_c": null,
+          "n_c": 126,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        }
+      ]
+    },
+    {
+      "pmid": "36193833",
+      "eligible": true,
+      "design": "前瞻性多中心队列研究（原始研究：24例不明原因复发性流产女性的子宫内膜代谢组学，符合PICOS诊断准确性/生物标志物筛查）",
+      "outcomes": [
+        {
+          "name": "子宫内膜容受性代谢组学谱（摘要未给出妊娠结局计数或预测性能数值）",
+          "effect_type": null,
+          "events_t": null,
+          "n_t": 24,
+          "events_c": null,
+          "n_c": null,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        }
+      ]
+    },
+    {
+      "pmid": "33971384",
+      "eligible": true,
+      "design": "前瞻性多中心队列研究（原始研究：24例不明原因复发性流产女性的子宫内膜转录组学，为后续容受性检测奠定基础）",
+      "outcomes": [
+        {
+          "name": "子宫内膜容受性转录组学谱（摘要未给出后续妊娠结局计数或预测性能数值）",
+          "effect_type": null,
+          "events_t": null,
+          "n_t": 24,
+          "events_c": null,
+          "n_c": null,
+          "effect": null,
+          "ci_low": null,
+          "ci_high": null
+        }
+      ]
+    }
+  ],
+  "summary": "8篇文献均为符合PICOS设计要求的原始研究（队列、病例对照或诊断准确性/生物信息学研究），涵盖基因组、转录组、蛋白质组及代谢组生物标志物用于RPL/EPL预测，但所有摘要均未报告可提取的四格表二分类结局计数或合并效应量（仅第3篇给出模型准确率95%），故结局数据行均为null，证据定量合成不可行。"
+}
