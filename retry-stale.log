@@ -1,0 +1,3 @@
+2026-11-24T22:19:24+08:00 STALE task_id=N/A cmd="false" retries=3 interval=1s
+2026-11-24T22:19:31+08:00 STALE task_id=9 cmd="false" retries=3 interval=1s
+2026-11-24T22:19:47+08:00 STALE task_id=9 cmd="false" retries=3 interval=1s
